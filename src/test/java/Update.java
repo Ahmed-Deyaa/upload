@@ -5,7 +5,6 @@ public class Update {
 
     public static void main(String args[]){
         System.out.println(x);
-        System.out.println(y);
         System.out.println(x+y);
         System.out.println(x*y);
         System.out.println(x/y);
